@@ -41,7 +41,7 @@ p {
 }
 
 /* This is an element class that affects the three links on the website*/
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -50,12 +50,12 @@ p {
 }
 
 /* This is an element class that removes the style from the list type*/
-.header div ul {
+.header nav ul {
     list-style-type: none;
 }
 
 /* This is an element class that affects how the links are being displayed*/
-.header div ul li {
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -151,3 +151,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
