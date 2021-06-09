@@ -70,6 +70,13 @@ p {
     background-position: center;
 }
 
+/* This is an element class that affects the width, diplay and margin of all three blue boxes*/
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 /* This is an element class that affects the blue box attributes*/
 .blueboxes {
     margin-bottom: 20px;
@@ -99,13 +106,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/* This is an element class that affects the width, diplay and margin of all three blue boxes*/
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 /* This is an element class that affects the right side box attributes*/
